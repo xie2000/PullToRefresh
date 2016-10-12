@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">通用版下拉刷新上拉加载控件</string>
+    <string name="head">这里是HeadView</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">已是最新</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">已全部加载</string>
+    <string name="listview">可下拉刷新上拉加载的ListView</string>
+    <string name="recyclerview">滑动到底部自动加载的RecyclerView</string>
+    <string name="gif_listview">带Gif动画的可下拉刷新上拉加载的ListView</string>
+    <string name="grid_view">可下拉刷新上拉加载的GridView</string>
+    <string name="expandable_listview">可下拉刷新上拉加载的ExpandableListView</string>
+    <string name="scrollview">可下拉刷新上拉加载的ScrollView</string>
+    <string name="webview">可下拉刷新上拉加载的WebView</string>
+    <string name="imageview">可下拉刷新上拉加载的ImageView</string>
+    <string name="textview">可下拉刷新上拉加载的TextView</string>
+
+</resources>

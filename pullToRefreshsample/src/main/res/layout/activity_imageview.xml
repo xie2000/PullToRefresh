@@ -1,0 +1,12 @@
+<com.jingchen.pulltorefresh.PullToRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.jingchen.pulltorefresh.PullableImageView
+        android:id="@+id/content_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/h" />
+
+</com.jingchen.pulltorefresh.PullToRefreshLayout>
